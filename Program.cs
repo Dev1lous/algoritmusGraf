@@ -92,4 +92,3 @@ class Program
         Console.Write(string.Join(" → ", path));
     }
 }
-// dodělat body ale už chápu to, že se jedná o Dijkstrův algoritmus
