@@ -1,0 +1,14 @@
+C:\Users\Matouš\Downloads\projektAlgoritmyFinal\bin\Debug\net8.0\projektAlgoritmyFinal.exe
+C:\Users\Matouš\Downloads\projektAlgoritmyFinal\bin\Debug\net8.0\projektAlgoritmyFinal.deps.json
+C:\Users\Matouš\Downloads\projektAlgoritmyFinal\bin\Debug\net8.0\projektAlgoritmyFinal.runtimeconfig.json
+C:\Users\Matouš\Downloads\projektAlgoritmyFinal\bin\Debug\net8.0\projektAlgoritmyFinal.dll
+C:\Users\Matouš\Downloads\projektAlgoritmyFinal\bin\Debug\net8.0\projektAlgoritmyFinal.pdb
+C:\Users\Matouš\Downloads\projektAlgoritmyFinal\obj\Debug\net8.0\projektAlgoritmyFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matouš\Downloads\projektAlgoritmyFinal\obj\Debug\net8.0\projektAlgoritmyFinal.AssemblyInfoInputs.cache
+C:\Users\Matouš\Downloads\projektAlgoritmyFinal\obj\Debug\net8.0\projektAlgoritmyFinal.AssemblyInfo.cs
+C:\Users\Matouš\Downloads\projektAlgoritmyFinal\obj\Debug\net8.0\projektAlgoritmyFinal.csproj.CoreCompileInputs.cache
+C:\Users\Matouš\Downloads\projektAlgoritmyFinal\obj\Debug\net8.0\projektAlgoritmyFinal.dll
+C:\Users\Matouš\Downloads\projektAlgoritmyFinal\obj\Debug\net8.0\refint\projektAlgoritmyFinal.dll
+C:\Users\Matouš\Downloads\projektAlgoritmyFinal\obj\Debug\net8.0\projektAlgoritmyFinal.pdb
+C:\Users\Matouš\Downloads\projektAlgoritmyFinal\obj\Debug\net8.0\projektAlgoritmyFinal.genruntimeconfig.cache
+C:\Users\Matouš\Downloads\projektAlgoritmyFinal\obj\Debug\net8.0\ref\projektAlgoritmyFinal.dll
